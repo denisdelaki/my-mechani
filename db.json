@@ -1,0 +1,57 @@
+{
+  "mechanics": [
+    {
+      "id": 1,
+      "name": "Denis Delaki",
+      "location": "Kitengela",
+      "contacts": "0703361342",
+      "image": "./assets/Images/DenisDelaki.jpeg",
+      "review": "Affordable"
+    },
+    {
+      "id": 2,
+      "name": "Alfred Kikwai",
+      "location": "Kisumu",
+      "contacts": "0720241209",
+      "image": "./assets/Images/alfred.jpg",
+      "review": ""
+    },
+    {
+      "id": 3,
+      "name": "Cynthy Delhia",
+      "location": "Nakuru",
+      "contacts": "0703103852",
+      "image": "./assets/Images/Delhia.jpg",
+      "review": ""
+    },
+    {
+      "id": 4,
+      "name": "Philip Kimasinya",
+      "location": "Mombasa",
+      "contacts": "0702275255",
+      "image": "./assets/Images/kimasinya.jpg",
+      "review": ""
+    },
+    {
+      "Name": "Kipyegon Denis",
+      "Location": "Bomet",
+      "Contacts": "0715655665",
+      "Image": "C:\\fakepath\\image.jpg",
+      "id": 5
+    },
+    {
+      "Name": "kipyegon denis ",
+      "Location": "Bomet",
+      "Contacts": "0715655665",
+      "Image": "C:\\fakepath\\image.jpg",
+      "id": 6
+    },
+    {
+      "Name": "stanley",
+      "Location": "nairobi",
+      "Contacts": "0715655665",
+      "Image": "C:\\fakepath\\image.jpg",
+      "id": 7
+    }
+  ]
+}
